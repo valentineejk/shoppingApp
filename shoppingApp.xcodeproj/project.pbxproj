@@ -51,6 +51,7 @@
 		02BA9D482844D974003C0B35 /* shoppingApp */ = {
 			isa = PBXGroup;
 			children = (
+				02BA9D572844E25F003C0B35 /* Models */,
 				02BA9D492844D974003C0B35 /* shoppingAppApp.swift */,
 				02BA9D4B2844D974003C0B35 /* ContentView.swift */,
 				02BA9D4D2844D979003C0B35 /* Assets.xcassets */,
@@ -65,6 +66,13 @@
 				02BA9D502844D979003C0B35 /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		02BA9D572844E25F003C0B35 /* Models */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
